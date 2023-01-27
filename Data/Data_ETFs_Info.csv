@@ -1,0 +1,657 @@
+Symbol,ETF Name,Asset Class,Expense Ratio,region,Avg. Daily Volume
+SPY,SPDR S&P 500 ETF Trust,Equity,0.0009,North America,91992422.11634904
+IVV,iShares Core S&P 500 ETF,Equity,0.0003,North America,4582045.336008024
+VOO,Vanguard S&P 500 ETF,Equity,0.0003,North America,3382483.149448345
+VTI,Vanguard Total Stock Market ETF,Equity,0.0003,North America,3364269.558676028
+QQQ,Invesco QQQ Trust,Equity,0.002,North America,40422764.192577735
+VTV,Vanguard Value ETF,Equity,0.0004,North America,1945441.1233701103
+VEA,Vanguard FTSE Developed Markets ETF,Equity,0.0005,Developed Market,10938706.67001003
+IEFA,iShares Core MSCI EAFE ETF,Equity,0.0007,Developed Market,7517525.827482447
+BND,Vanguard Total Bond Market ETF,Bond,0.0003,North America,3663732.397191575
+AGG,iShares Core U.S. Aggregate Bond ETF,Bond,0.0003,North America,4601852.607823471
+VUG,Vanguard Growth ETF,Equity,0.0004,North America,891057.7733199599
+IJR,iShares Core S&P Small-Cap ETF,Equity,0.0006,North America,3534972.116349047
+VWO,Vanguard FTSE Emerging Markets ETF,Equity,0.0008,Emerging Asia Pacifi,14431837.612838516
+IJH,iShares Core S&P Mid-Cap ETF,Equity,0.0005,North America,1309375.4764292878
+VIG,Vanguard Dividend Appreciation ETF,Equity,0.0006,North America,1120621.5145436309
+IEMG,iShares Core MSCI Emerging Markets ETF,Equity,0.0009,Broad Asia,11600027.983951855
+IWF,iShares Russell 1000 Growth ETF,Equity,0.0018,North America,1869392.1263791374
+IWM,iShares Russell 2000 ETF,Equity,0.0019,North America,27883435.305917755
+IWD,iShares Russell 1000 Value ETF,Equity,0.0018,North America,2449608.7261785357
+GLD,SPDR Gold Shares,Commodity,0.004,Undefined,8731688.716148445
+VO,Vanguard Mid-Cap ETF,Equity,0.0004,North America,590835.3059177533
+VYM,Vanguard High Dividend Yield Index ETF,Equity,0.0006,North America,1287731.9458375126
+VXUS,Vanguard Total International Stock ETF,Equity,0.0007,Broad Asia,2026668.7562688065
+BNDX,Vanguard Total International Bond ETF,Bond,0.0007,Developed Market,1732355.8174523572
+EFA,iShares MSCI EAFE ETF,Equity,0.0032,Developed Market,24738580.942828484
+XLE,Energy Select Sector SPDR Fund,Equity,0.001,North America,21834632.99899699
+SCHD,Schwab US Dividend Equity ETF,Equity,0.0006,Global,1327213.6409227683
+VB,Vanguard Small Cap ETF,Equity,0.0005,North America,699833.2497492478
+VGT,Vanguard Information Technology ETF,Equity,0.001,North America,590729.9398194584
+VCSH,Vanguard Short-Term Corporate Bond ETF,Bond,0.0004,Developed Market,2385154.513540622
+XLV,Health Care Select Sector SPDR Fund,Equity,0.001,North America,10176484.553660983
+XLK,Technology Select Sector SPDR Fund,Equity,0.001,North America,11154810.481444333
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,Equity,0.0003,North America,1513203.2096288868
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Bond,0.0004,Developed Market,2358264.994984955
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Bond,0.0014,North America,9638472.818455366
+BSV,Vanguard Short-Term Bond ETF,Bond,0.0004,North America,2114502.4573721164
+VNQ,Vanguard Real Estate ETF,Real Estate,0.0012,North America,5029730.792377131
+RSP,Invesco S&P 500® Equal Weight ETF,Equity,0.002,North America,1446726.0782347042
+XLF,Financial Select Sector SPDR Fund,Equity,0.001,North America,58071191.84553661
+VEU,Vanguard FTSE All-World ex-US Index Fund,Equity,0.0007,Broad Asia,3009353.961885657
+MUB,iShares National Muni Bond ETF,Bond,0.0007,North America,1345608.625877633
+DIA,SPDR Dow Jones Industrial Average ETF Trust,Equity,0.0016,North America,4461872.4172517555
+SCHX,Schwab U.S. Large-Cap ETF,Equity,0.0003,North America,2081106.0180541624
+USMV,iShares MSCI USA Min Vol Factor ETF,Equity,0.0015,North America,3199857.8736208626
+IVW,iShares S&P 500 Growth ETF,Equity,0.0018,North America,3013987.662988967
+SHY,iShares 1-3 Year Treasury Bond ETF,Bond,0.0015,North America,2745602.306920762
+IXUS,iShares Core MSCI Total International Stock ETF,Equity,0.0007,Global ex-U.S,1221253.7111334002
+SCHF,Schwab International Equity ETF,Equity,0.0006,Developed Market,3341291.1233701105
+IWB,iShares Russell 1000 ETF,Equity,0.0015,North America,1068401.153460381
+IWR,iShares Russell Midcap ETF,Equity,0.0018,North America,1408289.518555667
+TLT,iShares 20+ Year Treasury Bond ETF,Bond,0.0015,North America,11436181.394182548
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,Bond,0.0014,North America,1740842.8034102307
+IAU,iShares Gold Trust,Commodity,0.0025,Undefined,7304615.346038114
+VV,Vanguard Large Cap ETF,Equity,0.0004,North America,331564.3931795386
+TIP,iShares TIPS Bond ETF,Bond,0.0019,North America,2035838.365095286
+IVE,iShares S&P 500 Value ETF,Equity,0.0018,North America,1011276.0280842527
+VBR,Vanguard Small Cap Value ETF,Equity,0.0007,North America,430976.0782347041
+DGRO,iShares Core Dividend Growth ETF,Equity,0.0008,North America,1150624.3229689067
+VT,Vanguard Total World Stock ETF,Equity,0.0007,Developed Market,1651653.410230692
+SDY,SPDR S&P Dividend ETF,Equity,0.0034999999999999,North America,666969.8094282849
+MBB,iShares MBS ETF,Bond,0.0004,North America,1115429.739217653
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,Bond,0.0006,North America,1874825.6770310933
+DVY,iShares Select Dividend ETF,Equity,0.0038,North America,827108.6258776329
+IEF,iShares 7-10 Year Treasury Bond ETF,Bond,0.0015,North America,4353054.8645937815
+GOVT,iShares U.S. Treasury Bond ETF,Bond,0.0005,North America,3968734.1524573723
+EEM,iShares MSCI Emerging Markets ETF,Equity,0.0068,Global,57788875.42627884
+SCHB,Schwab U.S. Broad Market ETF,Equity,0.0003,North America,1713102.0060180542
+SHV,iShares Short Treasury Bond ETF,Bond,0.0015,North America,1829987.0110330994
+IUSB,iShares Core Total USD Bond Market ETF,Bond,0.0006,North America,623121.6148445336
+MDY,SPDR S&P Midcap 400 ETF Trust,Equity,0.0022,North America,1286871.8655967903
+QUAL,iShares MSCI USA Quality Factor ETF,Equity,0.0015,North America,830415.295887663
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Bond,0.0048,North America,20341935.055165496
+ACWI,iShares MSCI ACWI ETF,Equity,0.0032,North America,2967340.5717151454
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Bond,0.0004,North America,1128623.8214643933
+VGSH,Vanguard Short-Term Treasury ETF,Bond,0.0004,North America,1000592.076228686
+VHT,Vanguard Health Care ETF,Equity,0.001,North America,250529.6890672016
+XLP,Consumer Staples Select Sector SPDR Fund,Equity,0.001,North America,12529232.146439318
+VOE,Vanguard Mid-Cap Value ETF,Equity,0.0007,North America,349056.77031093277
+XLU,Utilities Select Sector SPDR Fund,Equity,0.001,North America,15157890.872617854
+SPLG,SPDR Portfolio S&P 500 ETF,Equity,0.0003,North America,1527315.446339017
+EFV,iShares MSCI EAFE Value ETF,Equity,0.0034999999999999,Developed Market,1444661.2838515546
+VGK,Vanguard FTSE Europe ETF,Equity,0.0008,Developed Europe,4707044.032096289
+VMBS,Vanguard Mortgage-Backed Securities ETF,Bond,0.0004,North America,926137.0611835506
+SPYV,SPDR Portfolio S&P 500 Value ETF,Equity,0.0004,North America,1356667.5025075225
+SCHP,Schwab U.S. TIPS ETF,Bond,0.0004,North America,1177358.375125376
+XLY,Consumer Discretionary Select Sector SPDR Fund,Equity,0.001,North America,5632053.460381144
+SCHG,Schwab U.S. Large-Cap Growth ETF,Equity,0.0004,North America,849291.6248746238
+PFF,iShares Preferred & Income Securities ETF,Preferred Stock,0.0045,North America,3591124.423269809
+SPYG,SPDR Portfolio S&P 500 Growth ETF,Equity,0.0004,North America,1360031.0932798395
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Bond,0.0039,Emerging Market,3544360.5817452357
+XLI,Industrial Select Sector SPDR Fund,Equity,0.001,North America,11840267.40220662
+VXF,Vanguard Extended Market ETF,Equity,0.0006,North America,382642.42728184554
+SCHA,Schwab U.S. Small-Cap ETF,Equity,0.0004,North America,993619.6088264794
+VGIT,Vanguard Intermediate-Term Treasury ETF,Bond,0.0004,North America,628486.3089267804
+IWS,iShares Russell Mid-Cap Value ETF,Equity,0.0023,North America,599559.6790371113
+SPDW,SPDR Portfolio Developed World ex-US ETF,Equity,0.0004,Developed Market,1673750.7522567704
+BIV,Vanguard Intermediate-Term Bond ETF,Bond,0.0004,North America,849064.593781344
+STIP,iShares 0-5 Year TIPS Bond ETF,Bond,0.0003,North America,324132.6980942828
+VBK,Vanguard Small Cap Growth ETF,Equity,0.0007,North America,203973.0190571715
+IWN,iShares Russell 2000 Value ETF,Equity,0.0023,North America,1319663.2397191576
+IUSV,iShares Core S&P U.S. Value ETF,Equity,0.0004,North America,477945.13540621864
+FVD,First Trust Value Line Dividend Index Fund,Equity,0.0067,North America,903766.9007021063
+HDV,iShares Core High Dividend ETF,Equity,0.0008,North America,546548.6459378134
+MTUM,iShares MSCI USA Momentum Factor ETF,Equity,0.0015,North America,797758.7261785356
+USFR,WisdomTree Floating Rate Treasury Fund,Bond,0.0015,North America,433422.41725175525
+IEI,iShares 3-7 Year Treasury Bond ETF,Bond,0.0015,North America,852628.184553661
+IWP,iShares Russell Mid-Cap Growth ETF,Equity,0.0023,North America,806306.1685055166
+IUSG,iShares Core S&P U.S. Growth ETF,Equity,0.0004,North America,513755.16549648944
+GDX,VanEck Gold Miners ETF,Equity,0.0051,North America,45167025.57673019
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,Equity,0.0034999999999999,North America,453236.4593781344
+SPLV,Invesco S&P 500® Low Volatility ETF,Equity,0.0025,North America,2936958.2748244735
+IWV,iShares Russell 3000 ETF,Equity,0.002,North America,278559.47843530594
+SCZ,iShares MSCI EAFE Small-Cap ETF,Equity,0.0039,Developed Market,1270635.6068204613
+SLV,iShares Silver Trust,Commodity,0.005,Undefined,16457524.774322968
+MGK,Vanguard Mega Cap Growth ETF,Equity,0.0007,North America,215398.99699097293
+SCHO,Schwab Short-Term U.S. Treasury ETF,Bond,0.0003,North America,815176.8304914745
+FNDX,Schwab Fundamental US Large Co. Index ETF,Equity,0.0025,North America,464069.1574724172
+SCHV,Schwab U.S. Large-Cap Value ETF,Equity,0.0004,North America,458708.926780341
+VOT,Vanguard Mid-Cap Growth ETF,Equity,0.0007,North America,160398.89669007022
+MINT,PIMCO Enhanced Short Maturity Active ETF,Bond,0.0036,Developed Market,898559.5787362086
+EFG,iShares MSCI EAFE Growth ETF,Equity,0.0034999999999999,Developed Market,448457.9237713139
+IWO,iShares Russell 2000 Growth ETF,Equity,0.0023,North America,705709.5285857572
+IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,Bond,0.0006,Developed Market,1161229.7893681044
+SCHM,Schwab US Mid-Cap ETF,Equity,0.0004,North America,373773.1193580742
+SUB,iShares Short-Term National Muni Bond ETF,Bond,0.0007,North America,237553.46038114344
+JNK,SPDR Bloomberg High Yield Bond ETF,Bond,0.004,North America,5997653.1444333
+VFH,Vanguard Financials ETF,Equity,0.001,North America,700938.7161484454
+VDE,Vanguard Energy ETF,Equity,0.001,North America,682545.9879638917
+EWJ,iShares MSCI Japan ETF,Equity,0.005,Developed Asia Pacifi,7857027.143931796
+IBB,iShares Biotechnology ETF,Equity,0.0044,North America,3593030.842527583
+VONG,Vanguard Russell 1000 Growth ETF,Equity,0.0008,North America,358457.37211634906
+FLOT,iShares Floating Rate Bond ETF,Bond,0.0015,North America,1185510.3811434302
+FTCS,First Trust Capital Strength ETF,Equity,0.0055,North America,239646.89067201604
+IYW,iShares U.S. Technology ETF,Equity,0.0039,North America,845643.5807422267
+RDVY,First Trust Rising Dividend Achievers ETF,Equity,0.005,North America,361703.1594784353
+FNDF,Schwab Fundamental International Large Co. Index ETF,Equity,0.0025,Developed Market,636040.4714142428
+SCHE,Schwab Emerging Markets Equity ETF,Equity,0.0011,Emerging Market,1505463.9919759277
+EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,Equity,0.0025,Emerging Asia Pacifi,606739.6690070211
+VLUE,iShares MSCI USA Value Factor ETF,Equity,0.0015,North America,646315.1454363089
+ARKK,ARK Innovation ETF,Equity,0.0075,North America,4615919.207622869
+XBI,SPDR S&P Biotech ETF,Equity,0.0034999999999999,North America,6209551.9558676025
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Bond,0.0003,North America,515597.39217652957
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Commodity,0.0062,Undefined,2038496.339017051
+VSS,Vanguard FTSE All-World ex-US Small-Cap ETF,Equity,0.0007,Developed Market,237332.14643931796
+OEF,iShares S&P 100 ETF,Equity,0.002,North America,565917.1013039118
+IJJ,iShares S&P Mid-Cap 400 Value ETF,Equity,0.0018,North America,346894.5837512538
+EFAV,iShares MSCI EAFE Min Vol Factor ETF,Equity,0.002,Developed Market,840120.2607823471
+GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,Equity,0.0046,Developed Market,756082.447342026
+DGRW,WisdomTree US Quality Dividend Growth Fund,Equity,0.0028,North America,301686.55967903713
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF,Bond,0.0004,North America,1330888.1644934805
+IJK,iShares S&P Mid-Cap 400 Growth ETF,Equity,0.0017,North America,446953.1594784353
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,Bond,0.003,North America,937094.5336008024
+IJS,iShares S&P Small-Cap 600 Value ETF,Equity,0.0018,North America,475872.7181544634
+FTSM,First Trust Enhanced Short Maturity ETF,Bond,0.0025,North America,601117.001003009
+ICSH,BlackRock Ultra Short-Term Bond ETF,Bond,0.0008,Global,438563.0892678034
+SCHZ,Schwab U.S. Aggregate Bond ETF,Bond,0.0003,Global,598845.5366098295
+SMH,VanEck Semiconductor ETF,Equity,0.0034999999999999,North America,4395753.159478435
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,Bond,0.0004,North America,530722.4172517553
+VDC,Vanguard Consumer Staples ETF,Equity,0.001,North America,149306.92076228687
+VOOG,Vanguard S&P 500 Growth ETF,Equity,0.001,North America,105440.92276830491
+MOAT,VanEck Morningstar Wide Moat ETF,Equity,0.0046999999999999,North America,303631.0932798395
+QYLD,Global X NASDAQ 100 Covered Call ETF,Equity,0.006,North America,1081165.6970912737
+MCHI,iShares MSCI China ETF,Equity,0.0056999999999999,Emerging Asia Pacifi,3393394.8846539618
+VONV,Vanguard Russell 1000 Value ETF,Equity,0.0008,North America,234148.49548645937
+SOXX,iShares Semiconductor ETF,Equity,0.004,North America,746350.6018054163
+SRLN,SPDR Blackstone Senior Loan ETF,Bond,0.0069999999999999,Developed Market,1058755.8676028084
+SPAB,SPDR Portfolio Aggregate Bond ETF,Bond,0.0003,Global,1091103.410230692
+IHI,iShares U.S. Medical Devices ETF,Equity,0.0039,North America,1009814.6940822467
+PRF,Invesco FTSE RAFI US 1000 ETF,Equity,0.0039,North America,154227.3821464393
+FNDA,Schwab Fundamental US Small Co. Index ETF,Equity,0.0025,North America,295406.4694082247
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,Bond,0.0004,North America,1584369.1574724172
+MGV,Vanguard Mega Cap Value ETF,Equity,0.0007,North America,132085.45636910733
+SPEM,SPDR Portfolio Emerging Markets ETF,Equity,0.0011,Emerging Market,993532.8485456369
+VPL,Vanguard FTSE Pacific ETF,Equity,0.0008,Developed Asia Pacifi,565292.1263791374
+TLH,iShares 10-20 Year Treasury Bond ETF,Bond,0.0015,North America,131966.0481444333
+EZU,iShares MSCI Eurozone ETF,Equity,0.005,Developed Europe,5820025.877632898
+SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,Equity,0.0003,North America,400031.8455366098
+VTWO,Vanguard Russell 2000 ETF,Equity,0.001,North America,510491.7251755266
+SPTL,SPDR Portfolio Long Term Treasury ETF,Bond,0.0006,North America,1237019.7592778334
+SCHH,Schwab US REIT ETF,Real Estate,0.0007,North America,1473948.846539619
+XLB,Materials Select Sector SPDR Fund,Equity,0.001,North America,6444926.930792377
+VPU,Vanguard Utilities ETF,Equity,0.001,North America,213078.98696088264
+KWEB,KraneShares CSI China Internet ETF,Equity,0.0069,Emerging Asia Pacifi,4379361.233701103
+SPMD,SPDR Portfolio S&P 400 Mid Cap ETF,Equity,0.0005,North America,471510.6820461384
+IJT,iShares S&P Small-Cap 600 Growth ETF,Equity,0.0018,North America,265561.0330992979
+FTEC,Fidelity MSCI Information Technology Index ETF,Equity,0.0008,North America,302417.60280842526
+ICLN,iShares Global Clean Energy ETF,Equity,0.004,Global,1869129.037111334
+EWZ,iShares MSCI Brazil ETF,Equity,0.0056999999999999,Latin America,24267014.8445336
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,Equity,0.0034999999999999,North America,5805689.944834503
+ISTB,iShares Core 1-5 Year USD Bond ETF,Bond,0.0006,North America,393218.40521564696
+PGX,Invesco Preferred ETF,Preferred Stock,0.0051,North America,2605158.1745235706
+LMBS,First Trust Low Duration Opportunities ETF,Bond,0.0066,North America,416966.4994984955
+IGV,iShares Expanded Tech-Software Sector ETF,Equity,0.004,North America,587664.9448345035
+SHM,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF,Bond,0.002,North America,463852.3069207623
+FXI,iShares China Large-Cap ETF,Equity,0.0074,Emerging Asia Pacifi,24910990.471414242
+SPSM,SPDR Portfolio S&P 600 Small Cap ETF,Equity,0.0005,North America,396211.2838515547
+VCLT,Vanguard Long-Term Corporate Bond ETF,Bond,0.0004,North America,529230.6419257773
+INDA,iShares MSCI India ETF,Equity,0.0065,Emerging Asia Pacifi,3524761.2337011034
+ACWV,iShares MSCI Global Min Vol Factor ETF,Equity,0.002,Developed Market,261391.5747241725
+IWY,iShares Russell Top 200 Growth ETF,Equity,0.002,North America,124745.7372116349
+CWB,SPDR Bloomberg Convertible Securities ETF,Bond,0.004,North America,962050.0
+FNDE,Schwab Fundamental Emerging Markets Large Co. Index ETF,Equity,0.0039,Emerging Market,528869.408224674
+IDV,iShares International Select Dividend ETF,Equity,0.0049,Developed Market,858304.2126379138
+FDL,First Trust Morningstar Dividend Leaders Index Fund,Equity,0.0045,North America,336735.75727181544
+DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,Equity,0.0034999999999999,Developed Market,1805714.4934804414
+ITA,iShares U.S. Aerospace & Defense ETF,Equity,0.0039,North America,384419.1574724172
+VCR,Vanguard Consumer Discretionary ETF,Equity,0.001,North America,108781.14343029087
+BKLN,Invesco Senior Loan ETF,Bond,0.0065,Global,5891477.632898696
+BLV,Vanguard Long-Term Bond ETF,Bond,0.0004,North America,340598.64593781345
+NEAR,BlackRock Short Maturity Bond ETF,Bond,0.0025,North America,770340.8726178536
+FDN,First Trust Dow Jones Internet Index Fund,Equity,0.0051,North America,509813.49047141423
+LIT,Global X Lithium & Battery Tech ETF,Equity,0.0075,Developed Market,379252.7081243731
+SLYV,SPDR S&P 600 Small Cap Value ETF,Equity,0.0015,North America,191712.38716148445
+EWC,iShares MSCI Canada ETF,Equity,0.005,North America,2990518.7562688063
+IXJ,iShares Global Healthcare ETF,Equity,0.004,North America,167201.25376128385
+SPTS,SPDR Portfolio Short Term Treasury ETF,Bond,0.0006,North America,788380.6920762287
+ONEQ,Fidelity Nasdaq Composite Index ETF,Equity,0.0021,North America,374264.44332998997
+EWT,iShares MSCI Taiwan ETF,Equity,0.0056999999999999,Developed Asia Pacifi,4347861.0581745235
+SPMB,SPDR Portfolio Mortgage Backed Bond ETF,Bond,0.0004,North America,387897.19157472416
+ACWX,iShares MSCI ACWI ex U.S. ETF,Equity,0.0032,Global ex-U.S,1450299.598796389
+TFLO,iShares Treasury Floating Rate Bond ETF,Bond,0.0015,North America,129922.11634904714
+SPHD,Invesco S&P 500® High Dividend Low Volatility ETF,Equity,0.003,North America,724831.0932798395
+HEFA,iShares Currency Hedged MSCI EAFE ETF,Equity,0.0034999999999999,Developed Market,937853.9117352056
+SPTI,SPDR Portfolio Intermediate Term Treasury ETF,Bond,0.0006,North America,987376.2286860582
+TFI,SPDR Nuveen Bloomberg Municipal Bond ETF,Bond,0.0023,Global,612969.332998997
+DLN,WisdomTree U.S. LargeCap Dividend Fund,Equity,0.0028,North America,187354.31293881644
+IGF,iShares Global Infrastructure ETF,Equity,0.004,Developed Market,306275.07522567705
+VIS,Vanguard Industrials ETF,Equity,0.001,North America,134730.04012036108
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Real Estate,0.0012,Developed Market,424759.22768304916
+MGC,Vanguard Mega Cap ETF,Equity,0.0007,North America,82811.83550651956
+SPHQ,Invesco S&P 500® Quality ETF,Equity,0.0015,North America,440606.16850551654
+DSI,iShares MSCI KLD 400 Social ETF,Equity,0.0025,North America,131305.71715145436
+IEUR,iShares Core MSCI Europe ETF,Equity,0.0009,Developed Europe,584809.62888666
+RPV,Invesco S&P 500® Pure Value ETF,Equity,0.0034999999999999,North America,282934.65396188566
+SJNK,SPDR Bloomberg Short Term High Yield Bond ETF,Bond,0.004,North America,3231799.147442327
+IOO,iShares Global 100 ETF,Equity,0.004,North America,110276.5295887663
+GNR,SPDR S&P Global Natural Resources ETF,Equity,0.004,Developed Market,204871.36409227684
+GDXJ,VanEck Junior Gold Miners ETF,Equity,0.0052,Global,12376656.419257773
+VGLT,Vanguard Long-Term Treasury ETF,Bond,0.0004,North America,548179.5887662988
+KRE,SPDR S&P Regional Banking ETF,Equity,0.0034999999999999,North America,7424110.080240722
+BSCO,Invesco BulletShares 2024 Corporate Bond ETF,Bond,0.001,North America,228125.07522567702
+VONE,Vanguard Russell 1000 ETF,Equity,0.0008,North America,53418.555667001005
+SCHC,Schwab International Small-Cap Equity ETF,Equity,0.0011,Developed Market,303996.1885656971
+SUSA,iShares MSCI USA ESG Select ETF,Equity,0.0025,North America,98675.9779338014
+IYR,iShares U.S. Real Estate ETF,Real Estate,0.0039,North America,8002686.359077232
+DON,WisdomTree U.S. MidCap Dividend Fund,Equity,0.0038,North America,307447.0912738215
+IYH,iShares U.S. Healthcare ETF,Equity,0.0039,North America,109748.54563691073
+EWY,iShares MSCI South Korea ETF,Equity,0.0056999999999999,Developed Asia Pacifi,3344112.1364092277
+EWU,iShares MSCI United Kingdom ETF,Equity,0.005,North America,2665877.482447342
+HYD,VanEck High Yield Muni ETF,Bond,0.0034999999999999,North America,495376.0531594784
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,Bond,0.0006,North America,207083.60080240722
+FLRN,SPDR Bloomberg Investment Grade Floating Rate ETF,Bond,0.0015,Developed Market,651959.9799398194
+FHLC,Fidelity MSCI Health Care Index ETF,Equity,0.0008,North America,189850.5516549649
+BOND,PIMCO Active Bond ETF,Bond,0.0056,North America,185478.13440320964
+VOOV,Vanguard S&P 500 Value ETF,Equity,0.001,North America,63331.29388164493
+SKYY,First Trust Cloud Computing ETF,Equity,0.006,North America,276043.8816449348
+ANGL,VanEck Fallen Angel High Yield Bond ETF,Bond,0.0034999999999999,North America,847117.7031093279
+VAW,Vanguard Materials ETF,Equity,0.001,North America,114109.77933801404
+IXN,iShares Global Tech ETF,Equity,0.004,North America,463119.1574724172
+VWOB,Vanguard Emerging Markets Government Bond ETF,Bond,0.002,Emerging Market,191727.23169508527
+REET,iShares Global REIT ETF,Real Estate,0.0014,North America,368786.6599799398
+EMLC,VanEck J. P. Morgan EM Local Currency Bond ETF,Bond,0.003,Emerging Market,1501971.815446339
+AAXJ,iShares MSCI All Country Asia ex-Japan ETF,Equity,0.0069,Broad Asia,1203593.0290872618
+OIH,VanEck Oil Services ETF,Equity,0.0034999999999999,North America,525805.6695085255
+TAN,Invesco Solar ETF,Equity,0.0069,Global,607196.740220662
+BSCN,Invesco BulletShares 2023 Corporate Bond ETF,Bond,0.001,Developed Market,221586.05817452358
+NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,Equity,0.0046999999999999,Developed Market,82599.84954864594
+FNDC,Schwab Fundamental International Small Co. Index ETF,Equity,0.0039,Developed Market,203554.66399197592
+MDYV,SPDR S&P 400 Mid Cap Value ETF,Equity,0.0015,North America,190183.45035105315
+IGM,iShares Expanded Tech Sector ETF,Equity,0.004,North America,50136.05817452357
+VOX,Vanguard Communication Services ETF,Equity,0.001,North America,189613.79137412237
+GVI,iShares Intermediate Government/Credit Bond ETF,Bond,0.002,North America,119627.78335005014
+FBND,Fidelity Total Bond ETF,Bond,0.0036,Developed Market,146781.444332999
+IYE,iShares U.S. Energy ETF,Equity,0.0039,North America,1402802.5075225676
+ARKG,ARK Genomic Revolution ETF,Equity,0.0075,North America,982081.7953861585
+COMT,iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF,Multi-Asset,0.0048,Developed Market,239577.3821464393
+SPIP,SPDR Portfolio TIPS ETF,Bond,0.0012,North America,501809.2778335005
+RPG,Invesco S&P 500® Pure Growth ETF,Equity,0.0034999999999999,North America,122337.41223671014
+DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,Equity,0.0058,Emerging Market,169356.06820461384
+SGOL,abrdn Physical Gold Shares ETF,Commodity,0.0017,Undefined,914933.6008024073
+IXC,iShares Global Energy ETF,Equity,0.004,North America,608803.259779338
+URTH,iShares MSCI World ETF,Equity,0.0024,Developed Market,100961.43430290873
+SLYG,SPDR S&P 600 Small Cap Growth ETF,Equity,0.0015,North America,142171.91574724173
+ICF,iShares Cohen & Steers REIT ETF,Real Estate,0.0032,North America,348631.99598796386
+XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,Equity,0.0032,Emerging Market,311478.4854563691
+HYMB,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF,Bond,0.0034999999999999,North America,232592.22668004013
+VIOO,Vanguard S&P Small-Cap 600 ETF,Equity,0.001,North America,42354.26278836509
+AOR,iShares Core Growth Allocation ETF,Multi-Asset,0.0015,North America,179564.79438314945
+GSY,Invesco Ultra Short Duration ETF,Bond,0.0022,Developed Market,363423.5707121364
+KBE,SPDR S&P Bank ETF,Equity,0.0034999999999999,North America,2624503.6609829487
+EPP,iShares MSCI Pacific ex Japan ETF,Equity,0.0046999999999999,Developed Asia Pacifi,513476.0280842528
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,Bond,0.0018,North America,216668.85656970914
+IYF,iShares U.S. Financials ETF,Equity,0.0039,North America,652624.6740220662
+KBWB,Invesco KBW Bank ETF,Equity,0.0034999999999999,North America,662627.1313941826
+CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,Equity,0.0034999999999999,Global,65735.40621865597
+FXN,First Trust Energy AlphaDEX Fund,Equity,0.0064,North America,811449.3981945837
+EBND,SPDR Bloomberg Emerging Markets Local Bond ETF,Bond,0.003,Global ex-U.S,271705.2657973922
+RYT,Invesco S&P 500® Equal Weight Technology ETF,Equity,0.004,North America,69052.65797392177
+MDYG,SPDR S&P 400 Mid Cap Growth ETF,Equity,0.0015,North America,167016.29889669007
+FUTY,Fidelity MSCI Utilities Index ETF,Equity,0.0008,North America,174638.51554663992
+PZA,Invesco National AMT-Free Municipal Bond ETF,Bond,0.0028,North America,416110.73219658976
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,Equity,0.0058,North America,147139.66900702106
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,Equity,0.0039,North America,57104.06218655968
+DXJ,WisdomTree Japan Hedged Equity Fund,Equity,0.0048,Developed Asia Pacifi,2597944.282848546
+XME,SPDR S&P Metals & Mining ETF,Equity,0.0034999999999999,North America,3612507.973921765
+XYLD,Global X S&P 500 Covered Call ETF,Multi-Asset,0.006,North America,84618.95687061183
+XLG,Invesco S&P 500® Top 50 ETF,Equity,0.002,North America,36426.42928786359
+ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,Equity,0.0065,Emerging Asia Pacifi,3133011.3841524576
+USRT,iShares Core U.S. REIT ETF,Real Estate,0.0008,North America,146992.07622868606
+DES,WisdomTree U.S. SmallCap Dividend Fund,Equity,0.0038,North America,258514.84453360082
+FMB,First Trust Managed Municipal ETF,Bond,0.005,Global,119191.52457372117
+CMF,iShares California Muni Bond ETF,Bond,0.0025,North America,133504.01203610832
+VRP,Invesco Variable Rate Preferred ETF,Multi-Asset,0.005,North America,344030.8425275828
+PKW,Invesco BuyBack Achievers™ ETF,Equity,0.0064,North America,164503.1594784353
+FENY,Fidelity MSCI Energy Index ETF,Equity,0.0008,North America,576365.9478435306
+SLY,SPDR S&P 600 Small Cap ETF,Equity,0.0015,North America,74145.33600802407
+PHO,Invesco Water Resources ETF,Equity,0.006,North America,82650.05015045135
+FEZ,SPDR EURO STOXX 50 ETF,Equity,0.0029,North America,2953977.7331995987
+ITM,VanEck Intermediate Muni ETF,Bond,0.0024,North America,209881.69508525578
+IYK,iShares U.S. Consumer Staples ETF,Equity,0.0039,North America,53750.85255767302
+DEM,WisdomTree Emerging Markets High Dividend Fund,Equity,0.0063,Emerging Asia Pacifi,319807.7733199599
+PPA,Invesco Aerospace & Defense ETF,Equity,0.0060999999999999,North America,84926.68004012037
+EWA,iShares MSCI-Australia ETF,Equity,0.005,Developed Asia Pacifi,2906513.590772317
+URA,Global X Uranium ETF,Equity,0.0069,Developed Market,609700.5265797392
+IPAC,iShares Core MSCI Pacific ETF,Equity,0.0009,Developed Asia Pacifi,86644.332998997
+IEV,iShares Europe ETF,Equity,0.0058,North America,564956.67001003
+FNCL,Fidelity MSCI Financials Index ETF,Equity,0.0008,North America,207828.38515546639
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,Equity,0.005,North America,98914.04212637914
+COPX,Global X Copper Miners ETF,Equity,0.0065,Global,198549.98294884653
+RWL,Invesco S&P 500 Revenue ETF,Equity,0.0039,North America,57419.458375125374
+BSCM,Invesco BulletShares 2022 Corporate Bond ETF,Bond,0.001,North America,278468.39017051156
+SPGP,Invesco S&P 500 GARP ETF,Equity,0.0036,North America,54271.36409227683
+PCY,Invesco Emerging Markets Sovereign Debt ETF,Bond,0.005,Emerging Market,1305241.8254764292
+QDF,FlexShares Quality Dividend Index Fund,Equity,0.0037,North America,93146.99097291875
+IHF,iShares U.S. Healthcare Providers ETF,Equity,0.0039,North America,67549.54864593782
+FXR,First Trust Industrials/Producer Durables AlphaDEX Fund,Equity,0.0060999999999999,North America,215404.76429287862
+GSG,iShares S&P GSCI Commodity-Indexed Trust,Commodity,0.0075,Undefined,818513.2898696088
+IYY,iShares Dow Jones U.S. ETF,Equity,0.002,North America,63108.826479438314
+AOA,iShares Core Aggressive Allocation ETF,Multi-Asset,0.0015,North America,84360.28084252759
+CWI,SPDR MSCI ACWI ex-US ETF,Equity,0.003,Global ex-U.S,393649.1975927783
+BAB,Invesco Taxable Municipal Bond ETF,Bond,0.0028,North America,267932.79839518556
+RWR,SPDR Dow Jones REIT ETF,Real Estate,0.0025,North America,236313.99197592778
+ILCG,iShares Morningstar Growth ETF,Equity,0.0004,North America,121008.02407221665
+FXH,First Trust Health Care AlphaDEX Fund,Equity,0.0060999999999999,North America,194625.47642928787
+QTEC,First Trust NASDAQ-100 Technology Sector Index Fund,Equity,0.0056,North America,176117.05115346037
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index ETF,Bond,0.0055,North America,362893.8816449348
+AOM,iShares Core Moderate Allocation ETF,Multi-Asset,0.0015,North America,169297.34202607823
+IYG,iShares U.S. Financial Services ETF,Equity,0.0039,North America,121978.4854563691
+PEY,Invesco High Yield Equity Dividend Achievers™ ETF,Equity,0.0053,North America,253322.2668004012
+HACK,ETFMG Prime Cyber Security ETFMG Prime Cyber Security Fund,Equity,0.006,North America,300627.1815446339
+MOO,VanEck Agribusiness ETF,Equity,0.0052,Developed Market,108760.18054162487
+FXZ,First Trust Materials AlphaDEX Fund,Equity,0.0064,North America,114309.57873620863
+FBT,First Trust NYSE Arca Biotechnology Index Fund,Equity,0.0055,North America,131069.40822467403
+LDUR,PIMCO Enhanced Low Duration Active ETF,Bond,0.0053,North America,39223.92176529589
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Equity,0.0039,Global,203593.63089267805
+IWX,iShares Russell Top 200 Value ETF,Equity,0.002,North America,56269.60882647944
+DHS,WisdomTree US High Dividend Fund,Equity,0.0038,North America,53379.38816449348
+MLPA,Global X MLP ETF,Equity,0.0046,North America,184152.03560682046
+IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,Bond,0.0006,North America,292947.84353059175
+EWG,iShares MSCI Germany ETF,Equity,0.005,North America,4505567.903711134
+TIPX,SPDR Bloomberg 1-10 Year TIPS ETF,Bond,0.0015,North America,159289.21765295888
+XAR,SPDR S&P Aerospace & Defense ETF,Equity,0.0034999999999999,North America,115140.37111334002
+EWL,iShares MSCI Switzerland ETF,Equity,0.005,North America,998319.408224674
+PXH,Invesco FTSE RAFI Emerging Markets ETF,Equity,0.005,Emerging Market,442813.5406218656
+XMLV,Invesco S&P MidCap Low Volatility ETF,Equity,0.0025,North America,198722.0661985958
+EDV,Vanguard Extended Duration Treasury ETF,Bond,0.0006,North America,165457.92377131394
+AIA,iShares Asia 50 ETF,Equity,0.005,Broad Asia,98731.99598796389
+IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,Equity,0.0058,Broad Asia,124220.66198595788
+STPZ,PIMCO 1-5 Year US TIPS Index ETF,Bond,0.002,North America,111248.04413239719
+EUFN,iShares MSCI Europe Financials ETF,Equity,0.0048,North America,1145743.7311935807
+FIW,First Trust Water ETF,Equity,0.0053,North America,40396.589769307924
+HEDJ,WisdomTree Europe Hedged Equity Fund,Equity,0.0058,Developed Europe,1556153.8615847542
+FTA,First Trust Large Cap Value AlphaDEX Fund,Equity,0.0059,North America,97427.43229689068
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,Equity,0.0039,North America,162840.87261785357
+PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,Equity,0.0045,Developed Asia Pacifi,171429.7893681043
+SDOG,ALPS Sector Dividend Dogs ETF,Equity,0.004,North America,148444.23269809427
+IMCG,iShares Morningstar Mid-Cap Growth ETF,Equity,0.0006,North America,77879.48846539619
+ITB,iShares U.S. Home Construction ETF,Equity,0.0039,North America,3152625.626880642
+KXI,iShares Global Consumer Staples ETF,Equity,0.004,North America,74265.24573721163
+RWO,SPDR Dow Jones Global Real Estate ETF,Real Estate,0.005,Developed Market,219282.14643931796
+PGF,Invesco Financial Preferred ETF,Preferred Stock,0.0055,North America,460432.39719157474
+QQEW,First Trust Nasdaq-100 Equal Weighted Index Fund,Equity,0.0056999999999999,North America,73476.27883650953
+FXO,First Trust Financials AlphaDEX Fund,Equity,0.0060999999999999,North America,342603.5606820461
+FEX,First Trust Large Cap Core AlphaDEX Fund,Equity,0.0059,North America,119045.53660982949
+PDP,Invesco DWA Momentum ETF,Equity,0.0062,North America,155333.9518555667
+DLS,WisdomTree International SmallCap Dividend Fund,Equity,0.0058,Developed Asia Pacifi,81766.148445336
+DTD,WisdomTree U.S. Total Dividend Fund,Equity,0.0028,North America,49367.40220661986
+FLTR,VanEck IG Floating Rate ETF,Bond,0.0014,Developed Market,157033.60080240722
+FSTA,FIDELITY COVINGTON TRUST MSCI CONSUMER STAPLES INDEX ETF,Equity,0.0008,North America,124946.43931795386
+ILF,iShares Latin America 40 ETF,Equity,0.0046999999999999,Latin America,1524780.3911735206
+IYJ,iShares U.S. Industrials ETF,Equity,0.0039,North America,137654.2627883651
+XSD,SPDR S&P Semiconductor ETF,Equity,0.0034999999999999,North America,112958.72617853561
+IGOV,iShares International Treasury Bond ETF,Bond,0.0034999999999999,Developed Market,189016.29889669007
+PPLT,abrdn Physical Platinum Shares ETF,Commodity,0.006,Undefined,95337.06118355066
+XMMO,Invesco S&P MidCap Momentum ETF,Equity,0.0033,North America,52777.33199598797
+MLPX,Global X MLP & Energy Infrastructure ETF,Equity,0.0045,North America,127689.61985957874
+FCG,First Trust Natural Gas ETF,Equity,0.006,North America,744293.7111334002
+FXL,First Trust Technology AlphaDEX Fund,Equity,0.0060999999999999,North America,198485.85757271815
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Equity,0.0008,North America,135037.91374122366
+GXC,SPDR S&P China ETF,Equity,0.0059,Emerging Asia Pacifi,117950.05015045135
+IDU,iShares U.S. Utilities ETF,Equity,0.0039,North America,215438.8665997994
+PSK,SPDR ICE Preferred Securities ETF,Preferred Stock,0.0045,North America,144850.0
+XHB,SPDR S&P Homebuilders ETF,Equity,0.0034999999999999,North America,2811423.620862588
+SIVR,abrdn Physical Silver Shares ETF,Commodity,0.003,Undefined,339733.9518555667
+BWX,SPDR Bloomberg International Treasury Bond ETF,Bond,0.0034999999999999,Developed Market,517448.29488465394
+FNX,First Trust Mid Cap Core AlphaDEX Fund,Equity,0.0059,North America,52698.59578736209
+GLTR,abrdn Physical Precious Metals Basket Shares ETF,Commodity,0.006,Undefined,39310.28084252758
+CGW,Invesco S&P Global Water Index ETF,Equity,0.0056999999999999,Developed Market,63546.84052156469
+EELV,Invesco S&P Emerging Markets Low Volatility ETF,Equity,0.0029,Emerging Market,141830.74222668004
+EWW,iShares MSCI Mexico ETF,Equity,0.005,Latin America,2981267.4022066197
+IGE,iShares North American Natural Resources ETF,Equity,0.004,North America,422110.93279839517
+SIL,Global X Silver Miners ETF,Equity,0.0065,Global,265862.7211634905
+RWJ,Invesco S&P SmallCap 600 Revenue ETF,Equity,0.0039,North America,34581.34403209629
+PFXF,VanEck Preferred Securities ex Financials ETF,Preferred Stock,0.004,North America,166307.02106318958
+EWQ,iShares MSCI France ETF,Equity,0.005,North America,941794.182547643
+PBW,Invesco WilderHill Clean Energy ETF,Equity,0.0060999999999999,North America,181850.68204613842
+IWC,iShares Micro-Cap ETF,Equity,0.006,North America,58560.180541624875
+FTC,First Trust Large Cap Growth AlphaDEX Fund,Equity,0.0059,North America,65983.09929789368
+FPX,First Trust US Equity Opportunities ETF,Equity,0.0056999999999999,North America,82081.04312938817
+ARKQ,ARK Autonomous Technology & Robotics ETF,Equity,0.0075,North America,157116.49949849548
+IWL,iShares Russell Top 200 ETF,Equity,0.0015,North America,40371.514543630896
+CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,Equity,0.0036,North America,48977.7331995988
+RDIV,Invesco S&P Ultra Dividend Revenue ETF,Equity,0.0039,North America,122452.407221665
+MUNI,PIMCO Intermediate Municipal Bond Active ETF,Bond,0.0034999999999999,North America,55795.636910732195
+RAVI,FlexShares Ready Access Variable Income Fund,Bond,0.0025,Global,29416.248746238714
+PID,Invesco International Dividend Achievers™ ETF,Equity,0.0056,Global ex-U.S,234647.74322968908
+CQQQ,Invesco China Technology ETF,Equity,0.0069999999999999,Emerging Asia Pacifi,157746.89067201604
+QEFA,SPDR MSCI EAFE StrategicFactors ETF,Equity,0.003,Developed Market,37554.16248746239
+FYX,First Trust Small Cap Core AlphaDEX Fund,Equity,0.0060999999999999,North America,57475.07522567703
+PWV,Invesco Dynamic Large Cap Value ETF,Equity,0.0058,North America,99684.20260782348
+AOK,iShares Core Conservative Allocation ETF,Multi-Asset,0.0015,North America,128937.26178535607
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,Equity,0.0034999999999999,North America,52281.04312938816
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,Equity,0.0039,North America,63176.68004012036
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Bond,0.0015,North America,97926.22868605818
+DJP,iPath Bloomberg Commodity Index Total Return ETN,Commodity,0.0069999999999999,Undefined,373015.74724172516
+IXG,iShares Global Financials ETF,Equity,0.004,Developed Market,124329.23771313942
+IAT,iShares U.S. Regional Banks ETF,Equity,0.0039,North America,227873.67101303913
+SPHY,SPDR Portfolio High Yield Bond ETF,Bond,0.001,North America,80162.63791374123
+IYM,iShares U.S. Basic Materials ETF,Equity,0.0039,Developed Market,125252.95887662988
+IMCB,iShares Morningstar Mid-Cap ETF,Equity,0.0004,North America,45053.761283851556
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,Equity,0.0032,Emerging Asia Pacifi,79578.98696088264
+CORP,PIMCO Investment Grade Corporate Bond Index ETF,Bond,0.002,North America,55981.19358074223
+IYT,iShares US Transportation ETF,Equity,0.0039,North America,270857.221664995
+REMX,VanEck Rare Earth/Strategic Metals ETF,Equity,0.0053,Global ex-U.S,84505.37011033099
+EZM,WisdomTree U.S. MidCap Fund,Equity,0.0038,North America,77933.19959879639
+PHB,Invesco Fundamental High Yield® Corporate Bond ETF,Bond,0.005,North America,531455.817452357
+ILCB,iShares Morningstar U.S. Equity ETF,Equity,0.0003,North America,60496.53961885657
+SDIV,Global X SuperDividend ETF,Equity,0.0058,Global,119257.1740220662
+JPIN,J.P. Morgan Diversified Return International Equity ETF,Equity,0.0037,Developed Market,103598.59578736208
+LTPZ,PIMCO 15+ Year US TIPS Index ETF,Bond,0.002,North America,60667.65295887663
+XSLV,Invesco S&P SmallCap Low Volatility ETF,Equity,0.0025,North America,191795.28585757272
+XSVM,Invesco S&P SmallCap Value with Momentum ETF,Equity,0.0039,North America,39202.30692076229
+FIDU,Fidelity MSCI Industrial Index ETF,Equity,0.0008,North America,97876.57973921765
+PFM,Invesco Dividend Achievers™ ETF,Equity,0.0053,North America,43514.14242728185
+EWH,iShares MSCI Hong Kong ETF,Equity,0.005,Developed Asia Pacifi,4505240.270812437
+IYC,iShares U.S. Consumer Discretionary ETF,Equity,0.0039,North America,182972.46740220662
+SILJ,ETFMG Prime Junior Silver Miners ETFMG Prime Junior Silver Miners Fund,Equity,0.0069,North America,581818.6058174523
+DIV,Global X SuperDividend U.S. ETF,Equity,0.0045,North America,137868.95687061184
+RHS,Invesco S&P 500® Equal Weight Consumer Staples ETF,Equity,0.004,North America,37840.170511534605
+REZ,iShares Residential and Multisector Real Estate ETF,Real Estate,0.0048,North America,62955.41624874624
+GWX,SPDR S&P International Small Cap ETF,Equity,0.004,Developed Asia Pacifi,121598.49548645937
+FXG,First Trust Consumer Staples AlphaDEX Fund,Equity,0.0064,North America,179905.71715145436
+SYLD,Cambria Shareholder Yield ETF,Equity,0.0059,North America,29514.393179538616
+REM,iShares Mortgage Real Estate ETF,Real Estate,0.0048,North America,501189.2928786359
+EES,WisdomTree U.S. SmallCap Fund,Equity,0.0038,North America,70014.24272818456
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,Bond,0.0018,North America,105496.9408224674
+EWX,SPDR S&P Emerging Markets Small Cap ETF,Equity,0.0065,Emerging Asia Pacifi,78259.3781344032
+EPS,WisdomTree U.S. LargeCap Fund,Equity,0.0008,North America,40666.09829488465
+LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,Equity,0.0012,North America,31175.626880641925
+RYE,Invesco S&P 500® Equal Weight Energy ETF,Equity,0.004,North America,78280.44132397191
+EQAL,Invesco Russell 1000 Equal Weight ETF,Equity,0.002,North America,68579.13741223671
+PEJ,Invesco Dynamic Leisure & Entertainment ETF,Equity,0.0055,North America,148992.6780341023
+CFA,VictoryShares US 500 Volatility Wtd ETF,Equity,0.0034999999999999,North America,38301.805416248746
+LQDH,iShares Interest Rate Hedged Corporate Bond ETF,Bond,0.0024,North America,34837.211634904714
+AGZ,iShares Agency Bond ETF,Bond,0.002,North America,49427.1815446339
+RLY,SPDR SSgA Multi-Asset Real Return ETF,Alternatives,0.005,Global,43150.451354062185
+PWB,Invesco Dynamic Large Cap Growth ETF,Equity,0.0056,North America,48250.451354062185
+PWZ,Invesco California AMT-Free Municipal Bond ETF,Bond,0.0028,North America,113894.5336008024
+ZROZ,PIMCO 25+ Year Zero Coupon US Treasury Index ETF,Bond,0.0015,North America,59401.05315947843
+OUNZ,VanEck Merk Gold Trust,Commodity,0.0025,Undefined,202363.2397191575
+DVYE,iShares Emerging Markets Dividend ETF,Equity,0.0049,Emerging Market,118374.87462387161
+KBA,KraneShares Bosera MSCI China A 50 Connect Index ETF,Equity,0.0056,Emerging Asia Pacifi,143748.54563691074
+EIDO,iShares MSCI Indonesia ETF,Equity,0.0056999999999999,Emerging Asia Pacifi,831646.0381143431
+XRT,SPDR S&P Retail ETF,Equity,0.0034999999999999,North America,4805931.2938816445
+CMBS,iShares CMBS ETF,Bond,0.0025,North America,55387.6629889669
+SMMU,PIMCO Short Term Municipal Bond Active ETF,Bond,0.0034999999999999,North America,31112.637913741222
+PPH,VanEck Pharmaceutical ETF,Equity,0.0034999999999999,Developed Market,86340.37111334002
+PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,Equity,0.0049,Global ex-U.S,63902.90872617854
+EWS,iShares MSCI Singapore ETF,Equity,0.005,Developed Asia Pacifi,715222.0912738214
+DWM,WisdomTree International Equity Fund,Equity,0.0048,Developed Asia Pacifi,56861.58475426279
+FGD,First Trust Dow Jones Global Select Dividend Index Fund,Equity,0.0056999999999999,Developed Market,98558.57572718154
+HAUZ,DBX ETF Trust - Xtrackers International Real Estate ETF,Real Estate,0.001,Developed Market,34279.488465396185
+DWX,SPDR S&P International Dividend ETF,Equity,0.0045,Developed Market,117796.2888665998
+KIE,SPDR S&P Insurance ETF,Equity,0.0034999999999999,North America,504435.406218656
+BBH,VanEck Biotech ETF,Equity,0.0034999999999999,North America,48547.19157472417
+RCD,Invesco S&P 500® Equal Weight Consumer Discretionary ETF,Equity,0.004,North America,29791.073219658978
+NYF,iShares New York Muni Bond ETF,Bond,0.0025,North America,29001.855566700102
+FCOM,Fidelity MSCI Communication Services Index ETF,Equity,0.0008,North America,82402.65797392177
+ECH,iShares MSCI Chile ETF,Equity,0.0056999999999999,Latin America,426010.8324974925
+SPLB,SPDR Portfolio Long Term Corporate Bond ETF,Bond,0.0004,North America,625174.0220661986
+PSI,Invesco Dynamic Semiconductors ETF,Equity,0.0056,North America,47925.77733199599
+SPGM,SPDR Portfolio MSCI Global Stock Market ETF,Equity,0.0009,Developed Market,33958.52557673019
+SPHB,Invesco S&P 500® High Beta ETF,Equity,0.0025,North America,349725.4262788365
+BSJM,Invesco BulletShares 2022 High Yield Corporate Bond ETF,Bond,0.0042,North America,144538.98746238716
+TLTD,FlexShares Morningstar Developed Markets ex-US Factor Tilt,Equity,0.0039,Global ex-U.S,41616.39919759278
+PLW,Invesco 1-30 Laddered Treasury ETF,Bond,0.0025,North America,67746.43931795386
+VUSE,Vident Core US Equity Fund,Equity,0.005,North America,38255.366098294886
+DBEU,Xtrackers MSCI Europe Hedged Equity ETF,Equity,0.0046,North America,655373.7713139418
+EEMA,iShares MSCI Emerging Markets Asia ETF,Equity,0.005,Broad Asia,56555.66700100301
+RWX,SPDR Dow Jones International Real Estate ETF,Real Estate,0.0059,Developed Asia Pacifi,496520.962888666
+WIP,SPDR FTSE International Government Inflation-Protected Bond ETF,Bond,0.005,Global ex-U.S,64926.278836509526
+IQDF,FlexShares International Quality Dividend Index Fund,Equity,0.0046999999999999,Global ex-U.S,121105.21564694082
+EWP,iShares MSCI Spain ETF,Equity,0.005,North America,1135530.5416248746
+FNDB,Schwab Fundamental U.S. Broad Market Index ETF,Equity,0.0025,North America,29523.520561685054
+SPBO,SPDR Portfolio Corporate Bond ETF,Bond,0.0003,Developed Market,46811.785356068205
+MDIV,First Trust Multi-Asset Diversified Income Index Fund,Multi-Asset,0.0073,North America,147181.39418254764
+PNQI,Invesco NASDAQ Internet ETF,Equity,0.006,Global,29153.911735205616
+IDLV,Invesco S&P International Developed Low Volatility ETF,Equity,0.0025,Developed Market,135561.93580742227
+XTN,SPDR S&P Transportation ETF,Equity,0.0034999999999999,North America,60790.12036108325
+CSM,Proshares Large Cap Core Plus,Equity,0.0045,North America,63695.285857572715
+DOL,WisdomTree International LargeCap Dividend Fund,Equity,0.0048,Developed Asia Pacifi,34062.23671013039
+RYF,Invesco S&P 500® Equal Weight Financials ETF,Equity,0.004,North America,67231.76980942828
+SHYD,VanEck Short High Yield Muni ETF,Bond,0.0034999999999999,North America,70335.30591775326
+DWAS,Invesco DWA SmallCap Momentum ETF,Equity,0.006,North America,48721.91574724173
+EWD,iShares MSCI Sweden ETF,Equity,0.0054,North America,325818.7562688064
+IGHG,ProShares Investment Grade-Interest Rate Hedged,Bond,0.003,North America,50925.17552657974
+XHE,SPDR S&P Health Care Equipment ETF,Equity,0.0034999999999999,North America,36411.83550651956
+ISCV,iShares Morningstar Small Cap Value ETF,Equity,0.0006,North America,29803.610832497492
+DNL,WisdomTree Global ex-U.S. Quality Dividend Growth Fund,Equity,0.0042,Broad Asia,34782.49749247743
+HYEM,VanEck Emerging Markets High Yield Bond ETF,Bond,0.004,Global ex-U.S,224827.2818455366
+LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,Bond,0.003,Emerging Market,143488.61584754262
+ISCG,iShares Morningstar Small-Cap Growth ETF,Equity,0.0006,North America,40643.43029087262
+RING,iShares MSCI Global Gold Miners ETF,Equity,0.0039,North America,223266.90070210633
+ULST,SPDR SSgA Ultra Short Term Bond ETF,Bond,0.002,Developed Market,52950.35105315948
+USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,Currency,0.005,North America,121707.37211634904
+GNMA,iShares GNMA Bond ETF,Bond,0.001,North America,39461.68505516549
+EZA,iShares MSCI South Africa ETF,Equity,0.0056999999999999,Africa,525844.6339017052
+EEMS,iShares MSCI Emerging Markets Small-Cap ETF,Equity,0.0068,Global ex-U.S,46070.160481444334
+FXU,First Trust Utilities AlphaDEX Fund,Equity,0.0064,North America,344632.99899699097
+IYZ,iShares U.S. Telecommunications ETF,Equity,0.0039,North America,491607.17151454365
+PXE,Invesco Dynamic Energy Exploration & Production ETF,Equity,0.0063,North America,59357.02106318957
+FXD,First Trust Consumer Discretionary AlphaDEX Fund,Equity,0.0060999999999999,North America,254248.84653961885
+PBJ,Invesco Dynamic Food & Beverage ETF,Equity,0.0063,North America,42935.005015045135
+GMF,SPDR S&P Emerging Asia Pacific ETF,Equity,0.0049,Emerging Asia Pacifi,36536.86058174523
+VIDI,Vident International Equity Fund,Equity,0.0060999999999999,Global ex-U.S,65528.33500501505
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,Equity,0.0034999999999999,North America,109010.64192577734
+TUR,iShares MSCI Turkey ETF,Equity,0.0056999999999999,North America,465122.7181544634
+FXE,Invesco CurrencyShares Euro Trust,Currency,0.004,Developed Europe,351936.8104312939
+SMB,VanEck Short Muni ETF,Bond,0.002,North America,74912.73821464393
+PALL,abrdn Physical Palladium Shares ETF,Commodity,0.006,Undefined,35708.67602808425
+SIZE,iShares MSCI USA Size Factor ETF,Equity,0.0015,North America,53301.95586760281
+IEZ,iShares U.S. Oil Equipment & Services ETF,Equity,0.0039,North America,236621.11334002006
+FLTB,Fidelity Limited Term Bond ETF,Bond,0.0036,Global,52607.47241725175
+PSCH,Invesco S&P SmallCap Health Care ETF,Equity,0.0029,North America,31631.544633901703
+THD,iShares MSCI Thailand ETF,Equity,0.0056999999999999,Emerging Asia Pacifi,179692.42728184554
+PJP,Invesco Dynamic Pharmaceuticals ETF,Equity,0.0058,North America,75224.82447342026
+HEZU,iShares Currency Hedged MSCI Eurozone ETF,Equity,0.0053,Developed Europe,746628.184553661
+HEWJ,iShares Currency Hedged MSCI Japan ETF,Equity,0.005,Developed Asia Pacifi,594244.2326980943
+VNM,VanEck Vietnam ETF,Equity,0.0059,Emerging Asia Pacifi,285600.90270812437
+SMIN,iShares MSCI India Small-Cap ETF,Equity,0.0074,Emerging Asia Pacifi,54411.48445336008
+FPXI,First Trust International Equity Opportunities ETF,Equity,0.0069999999999999,Broad Asia,51893.63089267803
+EMHY,iShares J.P. Morgan EM High Yield Bond ETF,Bond,0.005,Emerging Market,88812.08625877633
+EXI,iShares Global Industrials ETF,Equity,0.004,Developed Market,29015.546639919758
+MXI,iShares Global Materials ETF,Equity,0.004,Developed Market,48580.090270812434
+CEMB,iShares J.P. Morgan EM Corporate Bond ETF,Bond,0.005,Emerging Market,31794.433299899698
+ILTB,iShares Core 10+ Year USD Bond ETF,Bond,0.0006,North America,43503.96188565697
+EWN,iShares MSCI Netherlands ETF,Equity,0.005,Developed Europe,229736.05817452358
+FNY,First Trust Mid Cap Growth AlphaDEX Fund,Equity,0.0069999999999999,North America,38040.92276830492
+FAN,First Trust Global Wind Energy ETF,Equity,0.0062,Global,75039.31795386158
+PHDG,Invesco S&P 500® Downside Hedged ETF,Equity,0.004,Developed Market,60941.424272818454
+CHIQ,Global X MSCI China Consumer Discretionary ETF,Equity,0.0065,Broad Asia,132918.0040120361
+KBWY,Invesco KBW Premium Yield Equity REIT ETF,Real Estate,0.0034999999999999,North America,87613.13941825477
+RXI,iShares Global Consumer Discretionary ETF,Equity,0.004,North America,32232.898696088265
+FTRI,First Trust Indxx Global Natural Resources Income ETF,Equity,0.0069999999999999,Global,30485.20561685055
+PXI,Invesco DWA Energy Momentum ETF,Equity,0.006,North America,42646.63991975928
+DTH,WisdomTree International High Dividend Fund,Equity,0.0058,Developed Asia Pacifi,30866.75025075226
+DBJP,Xtrackers MSCI Japan Hedged Equity ETF,Equity,0.0046,Developed Asia Pacifi,318352.3069207623
+EWM,iShares MSCI Malaysia ETF,Equity,0.005,Emerging Asia Pacifi,572466.7251755266
+PBD,Invesco Global Clean Energy ETF,Equity,0.0075,Global,39776.629889669006
+AIRR,First Trust RBA American Industrial Renaissance ETF,Equity,0.0069999999999999,North America,34432.49749247743
+MLN,VanEck Long Muni ETF,Bond,0.0024,North America,63999.39819458375
+FYC,First Trust Small Cap Growth AlphaDEX Fund,Equity,0.0069999999999999,North America,41522.46740220662
+EWI,iShares MSCI Italy ETF,Equity,0.005,Developed Europe,1064150.9528585756
+PGJ,Invesco Golden Dragon China ETF,Equity,0.0069999999999999,Emerging Asia Pacifi,46053.51053159479
+PTH,Invesco DWA Healthcare Momentum ETF,Equity,0.006,North America,28965.646940822466
+TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index,Equity,0.0059,Global ex-U.S,31449.849548645936
+SGDM,Sprott Gold Miners ETF,Equity,0.005,North America,67356.51955867602
+XPH,SPDR S&P Pharmaceuticals ETF,Equity,0.0034999999999999,North America,116700.65195586761
+IXP,iShares Global Comm Services ETF,Equity,0.004,North America,44961.18355065196
+SPEU,SPDR Portfolio Europe ETF,Equity,0.0009,Developed Europe,66315.84754262789
+GCC,WisdomTree Enhanced Commodity Strategy Fund,Commodity,0.0055,Global,64099.197592778335
+SPFF,Global X SuperIncome Preferred ETF,Preferred Stock,0.0058,North America,102678.18455366098
+EPOL,iShares MSCI Poland ETF,Equity,0.0056999999999999,North America,280138.2146439318
+PGHY,Invesco Global Short Term High Yield Bond ETF,Bond,0.0034999999999999,Global,50753.51053159479
+DFE,WisdomTree Europe SmallCap Dividend Fund,Equity,0.0058,North America,86946.79037111334
+SLVP,iShares MSCI Global Silver Miners ETF,Equity,0.0039,Global,113210.18054162487
+FXY,Invesco Currencyshares Japanese Yen Trust,Currency,0.004,Developed Asia Pacifi,126862.73821464393
+EDIV,SPDR S&P Emerging Markets Dividend ETF,Equity,0.0049,Emerging Asia Pacifi,67546.69007021064
+FDD,First Trust STOXX European Select Dividend Index Fund,Equity,0.0058,North America,148016.2487462387
+MORT,VanEck Mortgage REIT Income ETF,Real Estate,0.0040999999999999,North America,77524.07221664995
+IFGL,iShares International Developed Real Estate ETF,Real Estate,0.0048,Developed Asia Pacifi,106475.27582748244
+QABA,First Trust NASDAQ ABA Community Bank Index Fund,Equity,0.006,North America,39734.353059177534
+IDOG,ALPS International Sector Dividend Dogs ETF,Equity,0.005,Developed Asia Pacifi,43567.853560682044
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,Bond,0.0043,North America,57530.2407221665
+DFJ,WisdomTree Japan SmallCap Dividend Fund,Equity,0.0058,Developed Asia Pacifi,51092.92878635908
+PSCE,Invesco S&P SmallCap Energy ETF,Equity,0.0029,North America,159972.56770310932
+EIS,iShares MSCI Israel ETF,Equity,0.0056999999999999,Middle East,28831.895687061184
+HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,Equity,0.0068,Broad Asia,71350.55165496489
+IPO,Renaissance IPO ETF,Equity,0.006,Developed Market,72402.407221665
+IYLD,iShares Morningstar Multi-Asset Income ETF,Multi-Asset,0.0059,Global,53590.12036108325
+JXI,iShares Global Utilities ETF,Equity,0.004,Developed Market,42233.19959879639
+FRI,First Trust S&P REIT Index Fund,Real Estate,0.005,North America,84004.16248746238
+BWZ,SPDR Bloomberg Short Term International Treasury Bond ETF,Bond,0.0034999999999999,Developed Asia Pacifi,56038.51554663992
+WTMF,WisdomTree Managed Futures Strategy Fund,Alternatives,0.0065,Global,33822.66800401203
+EPU,iShares MSCI Peru ETF,Equity,0.0056999999999999,Latin America,88733.50050150452
+SOCL,Global X Social Media ETF,Equity,0.0065,Global,53925.82748244734
+IGN,iShares North American Tech-Multimedia Networking ETF,Equity,0.004,North America,31170.01003009027
+PKB,Invesco Dynamic Building & Construction ETF,Equity,0.006,North America,41460.13039117352
+GREK,Global X MSCI Greece ETF,Equity,0.0056,Developed Europe,146067.7552657974
+IBND,SPDR Bloomberg International Corporate Bond ETF,Bond,0.005,Global,56386.05817452357
+ENZL,iShares MSCI New Zealand ETF,Equity,0.005,Developed Asia Pacifi,41040.67201604814
+EPHE,iShares MSCI Philippines ETF,Equity,0.0056999999999999,Emerging Asia Pacifi,220281.3440320963
+SBIO,ALPS Medical Breakthroughs ETF,Equity,0.005,North America,52521.765295887664
+FXB,Invesco CurrencyShares British Pound Sterling Trust,Currency,0.004,Developed Europe,48820.56168505517
+PICB,Invesco International Corporate Bond ETF,Bond,0.005,Developed Europe,34849.59879638917
+PBP,Invesco S&P 500 BuyWrite ETF,Multi-Asset,0.0049,North America,90505.81745235708
+FXC,Invesco CurrencyShares Canadian Dollar Trust,Currency,0.004,North America,51828.78635907723
+RIGS,RiverFront Strategic Income Fund,Bond,0.0046,North America,57441.67502507522
+SLX,VanEck Steel ETF,Equity,0.0055,Global,52907.27181544634
+DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,Equity,0.0066,Emerging Market,52077.883650952856
+ELD,WisdomTree Emerging Markets Local Debt Fund,Bond,0.0055,Emerging Market,58998.39518555667
+ECON,Columbia Emerging Markets Consumer ETF,Equity,0.0049,Global,133507.02106318958
+DBP,Invesco DB Precious Metals Fund,Commodity,0.0075,Undefined,32949.74924774323
+EWZS,iShares MSCI Brazil Small-Cap ETF,Equity,0.0056999999999999,Latin America,70736.30892678034
+BKF,iShares MSCI BIC ETF,Equity,0.0069999999999999,Emerging Market,47746.890672016045
+FNI,First Trust Chindia ETF,Equity,0.0059,Emerging Asia Pacifi,33259.829488465395
+DGP,DB Gold Double Long Exchange Traded Notes,Commodity,0.0075,Global,33229.488465396185
+PXJ,Invesco Dynamic Oil & Gas Services ETF,Equity,0.0063,North America,108103.86158475427
+SCJ,iShares MSCI Japan Small Cap ETF,Equity,0.005,Developed Asia Pacifi,43167.70310932799
+IHY,VanEck International High Yield Bond ETF,Bond,0.004,Global ex-U.S,40482.19658976931
+PUI,Invesco DWA Utilities Momentum ETF,Equity,0.006,North America,40500.95285857573
+EWO,iShares MSCI Austria ETF,Equity,0.005,North America,76689.71915747241
+WPS,iShares International Developed Property ETF,Real Estate,0.0048,Developed Asia Pacifi,30354.914744232698
+HEWG,iShares Currency Hedged MSCI Germany ETF,Equity,0.0053,North America,386896.2387161484
+IDX,VanEck Indonesia Index ETF,Equity,0.0056999999999999,Emerging Asia Pacifi,42602.758274824475
+SNLN,Highland iBoxx Senior Loan ETF,Bond,0.0056,Developed Market,120436.96088264794
+CHIX,Global X MSCI China Financials ETF,Equity,0.0065,Emerging Asia Pacifi,57376.5295887663
+ARGT,Global X MSCI Argentina ETF,Equity,0.0059,Latin America,49040.97291875627
+GYLD,Arrow Dow Jones Global Yield ETF,Multi-Asset,0.0075,Global,32134.152457372118
+ASHS,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,Equity,0.0065,Emerging Asia Pacifi,30276.68004012036
+BRF,VanEck Brazil Small-Cap ETF,Equity,0.0059,Global ex-U.S,34453.30992978937
+DXGE,WisdomTree Germany Hedged Equity Fund,Equity,0.0048,North America,42835.606820461384
+NIB,iPath Bloomberg Cocoa Subindex Total Return ETN,Commodity,0.0069999999999999,Undefined,42400.0
+EWK,iShares MSCI Belgium ETF,Equity,0.005,North America,102979.33801404212
+DZZ,DB Gold Double Short Exchange Traded Notes,Commodity,0.0075,Global,88559.97993981946
+EEMO,Invesco S&P Emerging Markets Momentum ETF,Equity,0.0031,Emerging Market,31185.90772316951
