@@ -3,6 +3,10 @@
 
 A Study on the Synergy of Machine Learning and Graph Theory Algorithms. 
 
+<p align="center" width="100%">
+    <a href = "https://www.dtu.dk/"><img width="60%" src="https://progruppen.dk/wp-content/uploads/2018/04/DTU-logo.png"></a>
+</p>
+
 ## Description
 
 This GitHub repository contains the code for a Master's thesis project conducted at Denmark's Technical University (DTU), on the synergy between Self-Organizing Maps (SOMs) and traditional machine learning methods for strategic fund selection. The project specifically focuses on the combination of SOMs with Agglomerative Hierarchical Clustering (AHC) and Minimum Spanning Tree (MST) algorithms. The optimization model used to evaluate the out-of-sample performance of the generated ETF subsets was constructed by [Petr Vanek](https://github.com/VanekPetr). The model utilizes a stochastic CVaR optimization to maximize the expected returns of the portfolios while maintaining the level of risk under specific targets. The results showed promise for the synergy between SOMs and MST but not for the combination of SOMs and AHC.
@@ -15,6 +19,7 @@ This GitHub repository contains the code for a Master's thesis project conducted
 | Arnar Tjörvi Charlesson       | s202024@dtu.dk |
 | Thorvaldur Ingi Ingimundarson | s202033@dtu.dk |
 
+We wish to extend great gratitude to  **Kourosh Marjani Rasmussen**  for supervising us  for this thesis and providing us with vital information and helpful guidance during the  process.
 
 ## Structure of Files and Folders
 
