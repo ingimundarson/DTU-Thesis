@@ -11,7 +11,7 @@ This GitHub repository contains the code for a Master's thesis project conducted
 
 | **Names**                     | **Email**      |
 |-------------------------------|----------------|
-| Arnar Tjörvi Charlesson       | s202033@dtu.dk |
+| Arnar Tjörvi Charlesson       | s202024@dtu.dk |
 | Thorvaldur Ingi Ingimundarson | s202033@dtu.dk |
 
 ## License
