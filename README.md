@@ -4,8 +4,10 @@
 A Study on the Synergy of Machine Learning and Graph Theory Algorithms. 
 
 <p align="center" width="100%">
-    <a href = "https://www.dtu.dk/"><img width="60%" src="https://progruppen.dk/wp-content/uploads/2018/04/DTU-logo.png"></a>
+    <a href = "https://www.dtu.dk/"><img width="60%" src="https://probygningsautomatik.dk/wp-content/uploads/2018/05/DTU-logo.png"></a>
 </p>
+
+
 
 ## Description
 
