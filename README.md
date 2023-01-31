@@ -21,13 +21,13 @@ This GitHub repository contains the code for a Master's thesis project conducted
 | Arnar Tjörvi Charlesson       | s202024@dtu.dk |
 | Thorvaldur Ingi Ingimundarson | s202033@dtu.dk |
 
-We wish to extend great gratitude to  **Kourosh Marjani Rasmussen**  for supervising us  for this thesis and providing us with vital information and helpful guidance during the  process.
+We wish to extend great gratitude to **Kourosh Marjani Rasmussen** for supervising us for this thesis and providing us with vital information and helpful guidance during the process.
 
 ## Structure of Files and Folders
 
 | **File Name**                               | **Description**                                                                     | **Type** |
 |---------------------------------------------|-------------------------------------------------------------------------------------|----------|
-| Code                                        | Folder containing sublamentary code files, such as helper functions and plot setup. | Folder   |
+| Code                                        | Folder containing supplementary code files, such as helper functions and plot setup. | Folder   |
 | Data                                        | Folder containing data files and saved results.                                     | Folder   |
 | Figures\_Plots                              | Saved figures.                                                                      | Folder   |
 | Investment\_Funnel\_SOM                     | Modified Investment Funnel for SOM.                                                 | Folder   |
